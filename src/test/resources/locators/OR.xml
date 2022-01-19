@@ -1,0 +1,19 @@
+<locators>
+
+	<homepage>
+		<header>
+			<username>
+				<css>![CDATA[#Email]]</css>
+				<xpath>![CDATA[//input[@id='Email']]</xpath>
+				<id>![CDATA[Email]]</id>
+			</username>
+			<password>
+				<css>![CDATA[#Passwd]]</css>
+				<xpath>![CDATA[//input[@id='Passwd']]</xpath>
+				<id>![CDATA[Passwd]]</id>
+			</password>
+		</header>
+
+	</homepage>
+
+</locators>
